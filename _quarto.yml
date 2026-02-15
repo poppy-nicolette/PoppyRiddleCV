@@ -9,7 +9,7 @@ author-meta: "Poppy Riddle"
 website:
   title: "Poppy Riddle"
   image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  description: ""
  
   navbar:
     background: light  # You can change the background color here
@@ -108,6 +108,6 @@ format:
     link-external-icon: false
     link-external-newwindow: true
     email-obfuscation: javascript
-    link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
+    #link-external-filter: ''
     include-in-header: "files/includes/_academic.qmd"
 
