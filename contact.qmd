@@ -1,24 +1,17 @@
 ---
 title: "Contact"
-description-meta: "Reach out to me with questions and comments"
+description-meta: "Reach out to me with questions or interest in collaborations"
 title-block-banner: false
 ---
 
 <center>
 
-**Quarto Academic**
+Dalhousie University
 
-School
+Department of Information Science
 
-College
+Halifax, Nova Scotia, Canada 
 
-University
-
-Address: 
-
-Phone: 
-
-E-mail: 
-
+pnriddle@dal.ca
 
 </center>
