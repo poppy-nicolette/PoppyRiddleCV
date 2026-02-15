@@ -8,14 +8,7 @@ css: custom.css
 ---
 
 
-<!--Include academic icons or buttons-->
-{{< include /files/includes/_academic.qmd >}}
-Links to author identifiers:
-
-- [OpenAlex](https://openalex.org/works?page=1&filter=authorships.author.id%3Aa5074377775)
-- [Google Scholar](https://scholar.google.com/citations?user=ERMpGHUAAAAJ&hl=en)
-
-## Selected Work
+## Journal articles
 
 Mongeon, P., Hare, M., **Riddle, P.**, Wison, S., Krause, G., Marjoram R., Toupin, R. (2025). Investigating Document Type, Language, Publication Year, and Author Count Discrepancies Between OpenAlex and Web of Science. *Preprint*. \[[pdf](https://doi.org/10.48550/arXiv.2508.18620)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2508.18620" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.48550/arXiv.2508.18620" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
@@ -41,18 +34,108 @@ Mongeon, P., Gracey, C., **Riddle, P.**, Hare, M., Simard, M.A., Sauvé, J.S.  (
 
 <br>
 
-Riddle, P. (2022). A visual analysis method comparing keywords from two search results using keyword co-occurrences, Thesis. Dalhousie University, Halifax, Canada. \[[pdf](http://hdl.handle.net/10222/81530)\] \[[code and data]()\] 
+**Riddle, P.** (2022). A visual analysis method comparing keywords from two search results using keyword co-occurrences, Thesis. Dalhousie University, Halifax, Canada. \[[pdf](http://hdl.handle.net/10222/81530)\] \[[code and data]()\] 
 
 <br>
 
-Taylor, S., Riddle, P., Crowell, T., Bullock, A., Chisholm, K. (2022). Ted’s Teas: A Two-part Accounting and Audit ‘Cross-over Case’. Accounting Perspectives/Perspectives Comptables. \[[pdf](https://doi.org/10.1111/1911- 3838.12334)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.1111/1911- 3838.12334" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1111/1911- 3838.12334" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+Taylor, S., **Riddle, P.**, Crowell, T., Bullock, A., Chisholm, K. (2022). Ted’s Teas: A Two-part Accounting and Audit ‘Cross-over Case’. Accounting Perspectives/Perspectives Comptables. \[[pdf](https://doi.org/10.1111/1911- 3838.12334)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.1111/1911- 3838.12334" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1111/1911- 3838.12334" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 <center><hr style="width:50%"></center>
 
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
+## Conference proceedings, presentations, or posters
 
+Mongeon, P., Hare, M., Krause, G., Marjoram, R., **Riddle, P.**, Toupin, R., Wilson, S. (2025) Investigating Document Type Discrepancies between OpenAlex and the Web of Science. Proceedings of the Annual Conference of CAIS/Actes due congrès annuel de l’ACSI. \[[pdf](https://doi.org/10.29173/cais1943)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.29173/cais1943" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.29173/cais1943" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+<br>
 
+Orian, C., **Riddle, P.**, Toupin, R., Krause, G., Mongeon, P., Books, S. (2025) Ocean Science Visualization Via the World Ocean Assessment. IV2025: 29th International Conference Information Visualization. Damstadt, Germany August 5-8, 2025. \[[pdf](https://doi.org/10.1109/IV68685.2025.00036)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.1109/IV68685.2025.00036" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1109/IV68685.2025.00036" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+<br>
 
-<!--Include social share buttons-->
+Saiyed, Z., **Riddle, P.**, Orian, C., Krause, G., Toupin, R., Kanagaraj, G., Mongeon, P., Brooks, S. (2025). RAG Based Navigation of the World Ocean Assessment II (accepted). Natural Language Processing 4 Sustainability (NLP4Sustain) Workshop, KONVENS 2025. Hildesheim, Germany October 9, 2025. \[[pdf](https://aclanthology.org/2025.konvens-2.22/)\] \[[code and data]()\] 
+<br>
 
-{{< include /files/includes/_socialshare.qmd >}}
+Sauvé, J.-S., Hare, M., Krause, G., Poitras, C., **Riddle, P.**, & Mongeon, P. (2024). A Bibliometric Analysis of Canadian LIS Scholars and Practitioner’s Research Contributions. Canadian Association of Information Science (CAIS/ACSI) Conference 2025.\[[pdf](https://doi.org/10.5206/cjils-rcsib.v48i1.22439)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.5206/cjils-rcsib.v48i1.22439" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.5206/cjils-rcsib.v48i1.22439" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+<br>
+
+Sauvé, J.-S., Hare, M., Krause, G., Poitras, C., **Riddle, P.**, & Mongeon, P. (2024). Canadian Publications in Library and Information Science: A Database of research by LIS academics and practitioners in Canada. 52nd Annual Conference of the Canadian Association for Information Science /l’Association canadienne des sciences de l’information (CAIS/ACSI) June 6-9, 2024.\[[pdf](https://doi.org/10.5206/cjils-rcsib.v48i1.22200)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.5206/cjils-rcsib.v48i1.22200" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.5206/cjils-rcsib.v48i1.22200" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+<br>
+
+Rémi Toupin, Geoff Krause, **Poppy Riddle**, Madelaine Hare, Philippe Mongeon, (2024). Clear as water: measuring the visibility of ocean literature topics using citations, news mentions, and policy mentions [Poster]. 29th Nordic Workshop on Bibliometrics & Policy Research 2024. University of Iceland, Reykjavík, Iceland Nov. 20-22, 2024.
+<br>
+
+**Poppy Riddle**, Rémi Toupin, Geoff Krause, Madelaine Hare, and Philippe Mongeon, (2024). Mapping the UN Second World Ocean Assessment: Challenges and opportunities [Poster abstract]. Science, Technology and Innovation Indicators Conference, Berlin Sept 18-20, 2024. \[[pdf](https://doi.org/10.5281/zenodo.14063100)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.5281/zenodo.14063100" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.5281/zenodo.14063100" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+<br>
+
+**Riddle, P.** (2024). Exploratory Search and Generative AI. Information Without Borders Conference, Dalhousie University March 25, 2024.
+<br>
+
+**Riddle, P.**, Simard, M.A., Gone, P., Li, V., Mongeon, P. (2023). The use of institutional repositories for self-archiving in Canadian Universities. 51st Annual Conference of the Canadian Association for Information Science /l’Association canadienne des sciences de l’information (CAIS/ACSI)June 6-9, 2023. \[[pdf](https://doi.org/10.29173/cais1841)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.29173/cais1841" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.29173/cais1841" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+<br>
+
+Turkmen R., Nwagu C., Rawat, P., **Riddle, P.**, Sunday, K., Barrera Mchuca, M. (2023). Put your glasses on: A voxel-based 3D authentication system in VR using eye-gaze. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). \[[pdf](https://doi.org/10.1109/VRW58643.2023.00316)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.1109/VRW58643.2023.00316" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1109/VRW58643.2023.00316" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+<br>
+
+Hare, M., Conrad, C., Toze, S., **Riddle, P.**, Chaves Baquero, J. (2023). Digitizing the Humanities and Social Sciences: The Future of Learning and Teaching. Consortium of Higher Education Researchers (CHER) 2023 annual conference.
+<br>
+
+**Riddle P.** (2022). What am I missing if I use one search term over the other? CAIS 2022, Student Research Forum.
+<br>
+
+**Riddle, P.** (2022). Comparing search terms for overlap and exclusions: a visual analysis. Dalhousie SIM Research Day.
+<br>
+
+**Riddle, P.** (2021). Keyword co-occurrence maps as visual analysis. LAMNS Conference.
+<br>
+
+**Riddle, P.** (2021). Viewing information spatially. Dalhousie SIM Research Day.
+<br>
+
+<center><hr style="width:50%"></center>
+
+## Datasets
+
+Toupin, R., Krause, G., **Riddle, P.**, Hare, M., Mongeon, P. (2024). Identifying Ocean- Related Literature Using the UN Second World Ocean Assessment Report (Dataset). Zenodo. \[[pdf](https://doi.org/10.5281/zenodo.14082107)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.5281/zenodo.14082107" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.5281/zenodo.14082107" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+<br>
+
+Sauvé, J.-S., Hare, M., Krause, G., Poitras, C., Riddle, P., & Mongeon, P. (2024). Canadian publications in Library and Information Science / Publications canadiennes en bibliothéconomie et sciences de l’information[Dataset]. Zenodo. \[[pdf](https://doi.org/10.5281/zenodo.14302591)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.5281/zenodo.14302591" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.5281/zenodo.14302591" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+<br>
+
+Mongeon, Philippe, & Sauvé, Jean-Sébastien. (2023). Canadian publications in Library and Information Science (BETA) / Publications canadiennes en bibliothéconomie et sciences de l'information (BETA) (0.0.0) [Data set]. Zenodo. \[[pdf](https://doi.org/10.5281/zenodo.7539011)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.5281/zenodo.7539011" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.5281/zenodo.7539011" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+<br>
+
+Mongeon, P., Bowman, T., Costas, R. (2022). Open dataset of scholars on Twitter. *I was acknowledged as contributing on this dataset* \[[pdf](https://doi.org/10.5281/zenodo.7013518)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.5281/zenodo.7013518" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.5281/zenodo.7013518" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+<br>
+
+<center><hr style="width:50%"></center>
+
+## Online Educational Resources
+
+**Riddle, P.**, Haustein, S., Alperin, J.P. (2024). Article Processing Charges Explorer. [link](https://www.scholcommlab.ca/apc-explorer/)
+<br>
+
+**Riddle, P.** (2024) Information Science Database Explorer. Python. [link](https://poppy- nicolette.github.io/CanadianLIS/main.html) \[[code and data](https://github.com/poppy-nicolette/CanadianLIS)\]
+<br>
+
+Hare, M. & **Riddle, P.** (2023). Citation Diversity LibGuide. [link](https://dal.ca.libguides.com/ScholarlyCommunications/citationdiversity)
+<br>
+
+Mongeon P., & **Riddle P.** (2023). Chapter 11 & 12 Shiny apps. INFO 6270 Data Science. [link](https://pmongeon.github.io/info6270/shinyapps.html)
+<br>
+
+**Riddle, P.** & Mongeon P. (2022). BiblioBox: an online bibliometric calculator and retrieval tool for OpenAlex. [link](https://pnriddle.shinyapps.io/BibloBox/)[[code and data]()\]
+<br>
+
+Mongeon, P. & **Riddle, P.** (2022). BiblioNet: an online network graph generator for OpenAlex data. [link](https://pmongeon.shinyapps.io/network-generator/)
+<br>
+
+**Riddle** et al., (2022) OCR Notebook: a Python tool for turning scans to text. [code](https://github.com/DigitalHugManitees/DH_Topic_Workshop/blob/main/OCR_text_analysis_on_Colab)
+<br>
+
+**Riddle** et al., (2022) LDA Notebook: a Python tool for analyzing text into topics. [code](https://github.com/DigitalHugManitees/DH_Topic_Workshop/blob/main/LDA_with_ngrams_on_Colab)
+<br>
+
+**Riddle** et al., (2022) Digital Humanities Topic Modelling Workshop Documentation.[code](https://digitalhugmanitees.github.io/DH_Topic_Workshop/)
+<br>
+
+Mongeon P., & **Riddle P.** (2022) Chapter 12 Citation Justice. Information in Society. [link](https://pmongeon.github.io/information-in-society/)
+<br>
+
