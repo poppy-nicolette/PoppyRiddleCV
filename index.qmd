@@ -53,6 +53,9 @@ Hi there, I'm a researcher and PdD Candidate in Information Science, currently a
 - PhD arc, 2022-2026 with expected graduation of Spring 2026
 - Masters degree 2020-2022 focused on data visualization for information retrieval
 - Prior career in Industrial Design and product development
+- Assistant Professor, Industrial Design, California College of the Arts
+- Sessional Instructor, Faculty of Management, Dalhousie University
+- I use Python for data analysis and software development
 
 ## Education
 
