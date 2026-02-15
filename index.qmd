@@ -1,7 +1,7 @@
 ---
 title: "Poppy Riddle"
 description-meta: "Academic CV and portfolio website"
-image: "files/images/poppy.jpg"
+image: "files/images/goat.jpg"
 page-navigation: false
 toc: false
 #sidebar: false

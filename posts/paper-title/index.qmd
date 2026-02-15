@@ -1,24 +1,25 @@
 ---
-title: "Can quantum-mechanical description of physical reality be considered complete?"
-description: "One is thus led to conclude that the description of reality as given by a wave function is not complete."
-subtitle: "*Physical Review*"
+title: "Investigating Document Type, Language, Publication Year, and Author Count Discrepancies Between OpenAlex and Web of Science"
+description: "In sum, we would argue that assessing the validity of a metadata element can only be done by comparing it to the full range of possible truths and considering the metadata’s consistency with the database’s internal policy."
+subtitle: "Preprent"
 author: 
-  - name: Albert Einstein
-  - name: Boris Podolsky
-  - name: Nathan Rosen
-date: "1935-05-15"
+  - name: Phillipe Mongeon
+  - name: Madelaine Hare
+  - name: Poppy Riddle
+  - name: Summer Wilson
+  - name: Geoff Krause
+  - name: Rebecca Marjoram
+  - name: Rémi Toupin
+date: "2025-08-26"
 categories: [paper]
-image: "featured.jpg"
+image: "cup_of_tea.jpg"
 citation:
-  type: article-journal
-  container-title: "Physical Review"
-  doi: "10.1103/PhysRev.47.777"
-  available-date: "1935-05-15"
-  issued: "1935-05-15"
-  volume: 47
-  issue: 7938
-  page: 777-80
-  url: https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777
+  type: article
+  container-title: "arXiv"
+  doi: "10.48550/arXiv.2508.18620"
+  available-date: "2025-08-26"
+  issued: "2025-08-26"
+  url: "https://doi.org/10.48550/arXiv.2508.18620"
 google-scholar: true
 ---
 
@@ -29,16 +30,16 @@ google-scholar: true
 
 ## Abstract
 
-In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.
+Bibliometrics, whether used for research or research evaluation, relies on large multidisciplinary databases of research outputs and citation indices. The Web of Science (WoS) was the main supporting infrastructure of the field for more than 30 years until several new competitors emerged. OpenAlex, a bibliographic database launched in 2022, has distinguished itself for its openness and extensive coverage. While OpenAlex may reduce or eliminate barriers to accessing bibliometric data, one of the concerns that hinders its broader adoption for research and research evaluation is the quality of its metadata. This study aims to assess metadata quality in OpenAlex and WoS, focusing on document type, publication year, language, and number of authors. By addressing discrepancies and misattributions in metadata, this research seeks to enhance awareness of data quality issues that could impact bibliometric research and evaluation outcomes. 
 
 
 ## Links
 
-Published [paper](https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777)
+Preprint [paper](https://arxiv.org/abs/2508.18620)
 
 
 ```{=html}
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1103/PhysRev.47.777"></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.48550/arXiv.2508.18620"></div>
 
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2508.18620" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 ```

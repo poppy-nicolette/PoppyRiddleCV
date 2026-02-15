@@ -15,7 +15,74 @@
 <link>https://poppy-nicolette.github.io/PoppyRiddleCV/posts.html</link>
 </image>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Tue, 15 Oct 2024 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 26 Aug 2025 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Investigating Document Type, Language, Publication Year, and Author Count Discrepancies Between OpenAlex and Web of Science</title>
+  <dc:creator>Phillipe Mongeon</dc:creator>
+  <dc:creator>Madelaine Hare</dc:creator>
+  <dc:creator>Poppy Riddle</dc:creator>
+  <dc:creator>Summer Wilson</dc:creator>
+  <dc:creator>Geoff Krause</dc:creator>
+  <dc:creator>Rebecca Marjoram</dc:creator>
+  <dc:creator>Rémi Toupin</dc:creator>
+  <link>https://poppy-nicolette.github.io/PoppyRiddleCV/posts/paper-title/</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Bibliometrics, whether used for research or research evaluation, relies on large multidisciplinary databases of research outputs and citation indices. The Web of Science (WoS) was the main supporting infrastructure of the field for more than 30 years until several new competitors emerged. OpenAlex, a bibliographic database launched in 2022, has distinguished itself for its openness and extensive coverage. While OpenAlex may reduce or eliminate barriers to accessing bibliometric data, one of the concerns that hinders its broader adoption for research and research evaluation is the quality of its metadata. This study aims to assess metadata quality in OpenAlex and WoS, focusing on document type, publication year, language, and number of authors. By addressing discrepancies and misattributions in metadata, this research seeks to enhance awareness of data quality issues that could impact bibliometric research and evaluation outcomes.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Preprint <a href="https://arxiv.org/abs/2508.18620">paper</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.48550/arXiv.2508.18620"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2508.18620" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{mongeon2025,
+  author = {Mongeon, Phillipe and Hare, Madelaine and Riddle, Poppy and
+    Wilson, Summer and Krause, Geoff and Marjoram, Rebecca and Toupin,
+    Rémi},
+  title = {Investigating {Document} {Type,} {Language,} {Publication}
+    {Year,} and {Author} {Count} {Discrepancies} {Between} {OpenAlex}
+    and {Web} of {Science}},
+  date = {2025-08-26},
+  url = {https://doi.org/10.48550/arXiv.2508.18620},
+  doi = {10.48550/arXiv.2508.18620},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-mongeon2025" class="csl-entry quarto-appendix-citeas">
+Mongeon, Phillipe, Madelaine Hare, Poppy Riddle, Summer Wilson, Geoff
+Krause, Rebecca Marjoram, and Rémi Toupin. 2025. <span>“Investigating
+Document Type, Language, Publication Year, and Author Count
+Discrepancies Between OpenAlex and Web of Science.”</span>
+<em>arXiv</em>. <a href="https://doi.org/10.48550/arXiv.2508.18620">https://doi.org/10.48550/arXiv.2508.18620</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://poppy-nicolette.github.io/PoppyRiddleCV/posts/paper-title/</guid>
+  <pubDate>Tue, 26 Aug 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://poppy-nicolette.github.io/PoppyRiddleCV/posts/paper-title/cup_of_tea.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Quarto Academic Website Examples and Tips</title>
   <link>https://poppy-nicolette.github.io/PoppyRiddleCV/</link>
@@ -86,68 +153,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://poppy-nicolette.github.io/PoppyRiddleCV/posts/news-title/</guid>
   <pubDate>Mon, 24 Jun 2024 03:00:00 GMT</pubDate>
   <media:content url="https://poppy-nicolette.github.io/PoppyRiddleCV/files/images/placeholder3.JPG" medium="image"/>
-</item>
-<item>
-  <title>Can quantum-mechanical description of physical reality be considered complete?</title>
-  <dc:creator>Albert Einstein</dc:creator>
-  <dc:creator>Boris Podolsky</dc:creator>
-  <dc:creator>Nathan Rosen</dc:creator>
-  <link>https://poppy-nicolette.github.io/PoppyRiddleCV/posts/paper-title/</link>
-  <description><![CDATA[ 
-
-
-
-
-<!--Include academic icons or bottons-->
-<!-- 
-Load Academicons v1: https://jpswalsh.github.io/academicons/
--->
-<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
-<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
-<!---
-The following code are needed to show dimension citation and altmetrics.
-https://api.altmetric.com/embeds.html
-https://badge.dimensions.ai/
---->
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.</p>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Published <a href="https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777">paper</a></p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1103/PhysRev.47.777"></div>
-
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{einstein1935,
-  author = {Einstein, Albert and Podolsky, Boris and Rosen, Nathan},
-  title = {Can Quantum-Mechanical Description of Physical Reality Be
-    Considered Complete?},
-  journal = {Physical Review},
-  volume = {47},
-  number = {7938},
-  pages = {777-80},
-  date = {1935-05-15},
-  url = {https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777},
-  doi = {10.1103/PhysRev.47.777},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-einstein1935" class="csl-entry quarto-appendix-citeas">
-Einstein, Albert, Boris Podolsky, and Nathan Rosen. 1935. <span>“Can
-Quantum-Mechanical Description of Physical Reality Be Considered
-Complete?”</span> <em>Physical Review</em> 47 (7938): 777–80. <a href="https://doi.org/10.1103/PhysRev.47.777">https://doi.org/10.1103/PhysRev.47.777</a>.
-</div></div></section></div> ]]></description>
-  <category>paper</category>
-  <guid>https://poppy-nicolette.github.io/PoppyRiddleCV/posts/paper-title/</guid>
-  <pubDate>Wed, 15 May 1935 04:00:00 GMT</pubDate>
-  <media:content url="https://poppy-nicolette.github.io/PoppyRiddleCV/posts/paper-title/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
