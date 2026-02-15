@@ -10,9 +10,6 @@ css: custom.css
 
 <!--Include academic icons or buttons-->
 {{< include /files/includes/_academic.qmd >}}
-
-Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
-
 Links to author identifiers:
 
 - [OpenAlex](https://openalex.org/works?page=1&filter=authorships.author.id%3Aa5074377775)
@@ -20,10 +17,35 @@ Links to author identifiers:
 
 ## Selected Work
 
-Mongeon, P., Hare, M., **Riddle, P.**, Wison, S., Krause, G., Marjoram R., Toupin, R. (2025). Investigating Document Type, Language, Publication Year, and Author Count Discrepancies Between OpenAlex and Web of Science. *Preprint*. \[[pdf](https://doi.org/10.48550/arXiv.2508.18620)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2508.18620" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.48550/arXiv.2508.18620" data-hide-no-mentions="true" class="altmetric-embed"></div>   
+Mongeon, P., Hare, M., **Riddle, P.**, Wison, S., Krause, G., Marjoram R., Toupin, R. (2025). Investigating Document Type, Language, Publication Year, and Author Count Discrepancies Between OpenAlex and Web of Science. *Preprint*. \[[pdf](https://doi.org/10.48550/arXiv.2508.18620)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2508.18620" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.48550/arXiv.2508.18620" data-hide-no-mentions="true" class="altmetric-embed"></div> 
+
 <br>  
 
 Hare, M., **Riddle, P.**, Toze, S., Kraglund-Gauthier, W., Brown, A., McNiff, L., Hunter, J. (2025) Reading the Province. Canadian Journal of Information and Library Science. \[[pdf](https://doi.org/10.29173/cais1898)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.29173/cais1898" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.29173/cais1898" data-hide-no-mentions="true" class="altmetric-embed"></div>   
+
+<br>
+
+Sauvé, J.-S., Hare, M., Krause, G., Poitras, C., **Riddle, P.**, & Mongeon, P. (2025). A bibliometric analysis of Canadian LIS scholars and practitioners' research contributions. Canadian Journal of Information and Library Science. \[[pdf](https://doi.org/10.5206/cjils-rcsib.v48i1.22439)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.5206/cjils-rcsib.v48i1.22439" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.5206/cjils-rcsib.v48i1.22439" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+
+<br>
+
+Rémi Toupin, Geoff Krause, **Poppy Riddle**, Madelaine Hare and Philippe Mongeon. (2025). Identifying ocean-related literature using the UN Second World Ocean Assessment report. Ocean and Society. \[[pdf](https://doi.org/10.17645/oas.8924)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.17645/oas.8924" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.17645/oas.8924" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+
+<br>
+
+**Riddle, P.** et al., (2023). The State of OA in the U15 Canadian Academic Repositories. Canadian Journal of Information & Library Science (CJILS). \[[pdf](https://doi.org/10.5206/cjils-rcsib.v46i2.15358)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.5206/cjils-rcsib.v46i2.15358" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.5206/cjils-rcsib.v46i2.15358" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+
+<br>
+
+Mongeon, P., Gracey, C., **Riddle, P.**, Hare, M., Simard, M.A., Sauvé, J.S.  (2023). Mapping the Canadian Library and Information Science research landscape. Canadian Journal of Information & Library Science (CJILS). \[[pdf](https://doi.org/10.5206/cjils-rcsib.v46i2.15568)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.5206/cjils-rcsib.v46i2.15568" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.5206/cjils-rcsib.v46i2.15568" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+
+<br>
+
+Riddle, P. (2022). A visual analysis method comparing keywords from two search results using keyword co-occurrences, Thesis. Dalhousie University, Halifax, Canada. \[[pdf](http://hdl.handle.net/10222/81530)\] \[[code and data]()\] 
+
+<br>
+
+Taylor, S., Riddle, P., Crowell, T., Bullock, A., Chisholm, K. (2022). Ted’s Teas: A Two-part Accounting and Audit ‘Cross-over Case’. Accounting Perspectives/Perspectives Comptables. \[[pdf](https://doi.org/10.1111/1911- 3838.12334)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.1111/1911- 3838.12334" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1111/1911- 3838.12334" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
 <center><hr style="width:50%"></center>
 
