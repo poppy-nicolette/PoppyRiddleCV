@@ -20,7 +20,7 @@ about:
       text: E-mail
       href: mailto:pnriddle@dal.ca  
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org/my-orcid?orcid=0000-0001-7862-7848
+      href: https://orcid.org/0000-0001-7862-7848
       target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=ERMpGHUAAAAJ&hl=en
