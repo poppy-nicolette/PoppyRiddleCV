@@ -20,7 +20,7 @@ Links to author identifiers:
 
 ## Selected Work
 
-Mongeon, P., Hare, M., Riddle, P., Wison, S., Krause, G., Marjoram R., Toupin, R. (2025). [Investigating Document Type, Language, Publication Year, and Author Count Discrepancies Between OpenAlex and Web of Science.](posts/paper-title/index.qmd). *Preprint*. \[[pdf](https://doi.org/10.48550/arXiv.2508.18620)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2508.18620" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.48550/arXiv.2508.18620" data-hide-no-mentions="true" class="altmetric-embed"></div>     
+Mongeon, P., Hare, M., Riddle, P., Wison, S., Krause, G., Marjoram R., Toupin, R. (2025). [Investigating Document Type, Language, Publication Year, and Author Count Discrepancies Between OpenAlex and Web of Science.] *Preprint*. \[[pdf](https://doi.org/10.48550/arXiv.2508.18620)\] \[[code and data]()\] <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2508.18620" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.48550/arXiv.2508.18620" data-hide-no-mentions="true" class="altmetric-embed"></div>     
 
 
 <center><hr style="width:50%"></center>
