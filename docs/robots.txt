@@ -1,1 +1,1 @@
-Sitemap: https://drganghe.github.io/quarto-academic-website-template/sitemap.xml
+Sitemap: https://poppy-nicolette.github.io/PoppyRiddleCV/sitemap.xml
