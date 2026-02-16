@@ -60,28 +60,28 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+    "text": "Winter 2024\nExplores MS tools and integrations, web applications, cloud data, APIs and databases, and machine learning."
   },
   {
     "objectID": "teaching.html#class-1",
     "href": "teaching.html#class-1",
     "title": "Teaching",
     "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+    "text": "Winter 2024\nMGMT1601, Management Tools and Technology Explores MS tools and integrations, web applications, cloud data, APIs and databases, and machine learning."
   },
   {
     "objectID": "teaching.html#class-2",
     "href": "teaching.html#class-2",
     "title": "Teaching",
     "section": "Class 2",
-    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
+    "text": "Class 2\n\n\n\n\n\nFall 2023\nMGMT2605, Working with Data Fall 2023 Explored data analysis in Excel, Tableau, ArcGIS."
   },
   {
     "objectID": "teaching.html#class-3",
     "href": "teaching.html#class-3",
     "title": "Teaching",
     "section": "Class 3",
-    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
+    "text": "Class 3\n\n\n\n\n\nWinter 2023\nTopic Modelling Workshop  Development and instruction of workshops on OCR and topic modelling for social sciences and humanities researchers to learn digital humanities tools through distributed Python notebooks."
   },
   {
     "objectID": "contact.html",
@@ -166,5 +166,47 @@
     "title": "Publications",
     "section": "Online Educational Resources",
     "text": "Online Educational Resources\nRiddle, P., Haustein, S., Alperin, J.P. (2024). Article Processing Charges Explorer. link \nRiddle, P. (2024) Information Science Database Explorer. Python. link [code and data] \nHare, M. & Riddle, P. (2023). Citation Diversity LibGuide. link \nMongeon P., & Riddle P. (2023). Chapter 11 & 12 Shiny apps. INFO 6270 Data Science. link \nRiddle, P. & Mongeon P. (2022). BiblioBox: an online bibliometric calculator and retrieval tool for OpenAlex. link[code and data] \nMongeon, P. & Riddle, P. (2022). BiblioNet: an online network graph generator for OpenAlex data. link \nRiddle et al., (2022) OCR Notebook: a Python tool for turning scans to text. code \nRiddle et al., (2022) LDA Notebook: a Python tool for analyzing text into topics. code \nRiddle et al., (2022) Digital Humanities Topic Modelling Workshop Documentation.code \nMongeon P., & Riddle P. (2022) Chapter 12 Citation Justice. Information in Society. link"
+  },
+  {
+    "objectID": "teaching.html#mgmt1601-management-tools-and-technology",
+    "href": "teaching.html#mgmt1601-management-tools-and-technology",
+    "title": "Teaching",
+    "section": "",
+    "text": "Winter 2024\nExplores MS tools and integrations, web applications, cloud data, APIs and databases, and machine learning."
+  },
+  {
+    "objectID": "teaching.html#mgmt2605-working-with-data-fall-2023",
+    "href": "teaching.html#mgmt2605-working-with-data-fall-2023",
+    "title": "Teaching",
+    "section": "MGMT2605, Working with Data Fall 2023",
+    "text": "MGMT2605, Working with Data Fall 2023\n\n\n\n\n\nFall 2023\nExplored data analysis in Excel, Tableau, ArcGIS."
+  },
+  {
+    "objectID": "teaching.html#ocr-and-topic-modelling-workshop-for-digital-humanities",
+    "href": "teaching.html#ocr-and-topic-modelling-workshop-for-digital-humanities",
+    "title": "Teaching",
+    "section": "OCR and Topic Modelling Workshop for Digital Humanities",
+    "text": "OCR and Topic Modelling Workshop for Digital Humanities\n\n\n\n\n\nWinter 2023\nDevelopment and instruction of workshops on OCR and topic modelling for social sciences and humanities researchers to learn digital humanities tools through distributed Python notebooks."
+  },
+  {
+    "objectID": "teaching.html#info-6850-bibliometrics",
+    "href": "teaching.html#info-6850-bibliometrics",
+    "title": "Teaching",
+    "section": "INFO 6850 Bibliometrics",
+    "text": "INFO 6850 Bibliometrics\n\n\n\n\n\nFall 2022\nTeaching assistant – Introduction to citation-based and context-based metrics of scholarly production, data manipulation, and network graph visualization."
+  },
+  {
+    "objectID": "teaching.html#mgmt-2605-working-with-data",
+    "href": "teaching.html#mgmt-2605-working-with-data",
+    "title": "Teaching",
+    "section": "MGMT 2605 Working with Data",
+    "text": "MGMT 2605 Working with Data\n\n\n\n\n\nFall 2022\nTeaching assistant – Introduction to data exploration, cleaning, and visualization using MS tools with an introduction to coding."
+  },
+  {
+    "objectID": "teaching.html#info-6270-data-science",
+    "href": "teaching.html#info-6270-data-science",
+    "title": "Teaching",
+    "section": "INFO 6270 Data Science",
+    "text": "INFO 6270 Data Science\n\n\n\n\n\nWinter 2023\nGuest lecturer - An introductio to Shiny App development in R funded by a Curriculum Development Grant."
   }
 ]

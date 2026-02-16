@@ -5,63 +5,120 @@ title-block-banner: false
 ---
 
 
-## Class 1
+## MGMT1601, Management Tools and Technology
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
+![](files/images/Servers_in_a_Rack.jpg)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+[Winter 2024]()
 
-Class 1 introduction.
-
-:::
+Explores MS tools and integrations, web applications, cloud data, APIs and databases, and machine learning.
 
 :::
 
+:::
 
-## Class 2
+
+## MGMT2605, Working with Data Fall 2023
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
+![](files/images/Mathematician.jpg)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+[Fall 2023]()
 
-Class 2 introduction.
-
-:::
+Explored data analysis in Excel, Tableau, ArcGIS.
 
 :::
 
+:::
 
-## Class 3
+
+## OCR and Topic Modelling Workshop for Digital Humanities
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
+![](files/images/Ampex_data_cassette.jpg)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
+[Winter 2023](https://github.com/DigitalHugManitees/DH_Topic_Workshop)
 
-Class 3 introduction. 
+Development and instruction of workshops on OCR and topic modelling for social sciences and humanities researchers to learn digital humanities tools through distributed Python notebooks.
+
+:::
+
+:::
+
+
+## INFO 6850 Bibliometrics
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/Network_Visualization.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Fall 2022]()
+
+*Teaching assistant* – Introduction to citation-based and context-based metrics of scholarly production, data manipulation, and network graph visualization.
 
 :::
 
 :::
 
+## MGMT 2605 Working with Data
 
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/Emprunt_d'un_document.jpg)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Fall 2022]()
+
+*Teaching assistant* – Introduction to data exploration, cleaning, and visualization using MS tools with an introduction to coding.
+
+:::
+
+:::
+
+## INFO 6270 Data Science
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/Rubans_magnétiques.jpg)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Winter 2023]()
+
+
+*Guest lecturer* - An introductio to Shiny App development in R funded by a Curriculum Development Grant.
+
+:::
+
+:::
